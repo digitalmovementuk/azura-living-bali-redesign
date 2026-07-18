@@ -435,7 +435,7 @@ function App() {
       <footer className="site-footer">
         <div className="page-shell site-footer__top">
           <div className="site-footer__brand">
-            <img src={asset('azura-mark.png')} alt="Azura boutique villas — your private paradise" width="1600" height="855" />
+            <img src={asset('azura-wordmark.png')} alt="Azura" width="2022" height="445" />
             <p>Wellness living in Bali’s emerging eco-luxury hotspot Tabanan.</p>
           </div>
           <nav aria-label="Footer navigation">
