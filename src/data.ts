@@ -1,4 +1,4 @@
-export const bookingUrl = 'https://api.leadconnectorhq.com/widget/bookings/azuradiscoverycall';
+export const bookingUrl = 'https://api.leadconnectorhq.com/widget/bookings/azura-discovery-call';
 
 export const whatsappUrl =
   'https://wa.me/6281241960867?text=Hi%2C%20I%27d%20like%20to%20receive%20the%20Azura%20Living%20Bali%20investment%20details.';

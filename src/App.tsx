@@ -451,7 +451,7 @@ function App() {
         </div>
         <div className="page-shell site-footer__bottom">
           <span>© {new Date().getFullYear()} Ultimate Horizons Property</span>
-          <a href="https://azuralivingbali.com/privacy-policy/" target="_blank" rel="noreferrer">Privacy policy</a>
+          <a href="/privacy-policy/">Privacy policy</a>
           <span>Information subject to contract and due diligence.</span>
         </div>
       </footer>
