@@ -444,7 +444,7 @@ function App() {
           </nav>
           <div className="site-footer__contact">
             <span>Contact</span>
-            <a href={whatsappUrl} target="_blank" rel="noreferrer">WhatsApp +62 812 4196 0867</a>
+            <a href={whatsappUrl} target="_blank" rel="noreferrer">WhatsApp +62 823-2284-6087</a>
             <a href={bookingUrl} target="_blank" rel="noreferrer">Book a discovery call</a>
             <address>Villa #3, Jl. Veteran No. 90<br />Buduk, Mengwi, Bali 80351</address>
           </div>

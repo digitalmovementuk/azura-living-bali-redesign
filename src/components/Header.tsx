@@ -146,7 +146,7 @@ export function Header() {
             <div>
               <span>Talk to the Azura team</span>
               <a href={whatsappUrl} target="_blank" rel="noreferrer" tabIndex={menuOpen ? 0 : -1}>
-                WhatsApp +62 812 4196 0867
+                WhatsApp +62 823-2284-6087
               </a>
             </div>
             <ButtonLink className="site-menu__contact-button" href={bookingUrl} variant="gold" target="_blank" rel="noreferrer" tabIndex={menuOpen ? 0 : -1}>
